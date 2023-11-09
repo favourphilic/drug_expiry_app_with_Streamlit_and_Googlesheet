@@ -3,10 +3,9 @@ from streamlit_option_menu import option_menu
 from streamlit_gsheets import GSheetsConnection
 import pickle
 from pathlib import Path
-import pandas as pd  # pip install pandas openpyxl
-import plotly.express as px  # pip install plotly-express
-import streamlit_authenticator as stauth  # pip install streamlit-authenticator
-import streamlit_lottie as st_lottie
+import pandas as pd  
+import streamlit_authenticator as stauth  
+
 
 
 
