@@ -1,0 +1,41 @@
+credentials:
+  usernames:
+    jonyemelukwe:
+      email: jonyemelukwe@gmail.com
+      name: Joy Onyemelukwe
+      password:  '$2b$12$h4LqcSpOW7xQquRd/bxrQu.pLyF.vFp5VuTqUNodpqRwmHA4dzx3W'           # To be replaced with hashed password
+    ooladapo:
+      email: ooladapo@gmail.com
+      name: Olaide Oladapo
+      password:  '$2b$12$IDROU.FBYo52iNs4YExVEevsF8HPXZH1Q3SZKxJM9/HC71pe0sWRS'            # To be replaced with hashed password
+
+    vjokanola:
+      email: vjokanola@gmail.com
+      name: Victor Jokanola
+      password: '$2b$12$2LAyHMMBLgjttB0xm8cXP.muFk5rex20d1Lh/sxvXucst9vVlY3RG'  # To be replaced with hashed password
+    eoyedotun:
+      email: eoyedotun@gmail.com
+      name: Eniola Oyedotun
+      password:  '$2b$12$4tufnoRRbdviBGtlgLwNo.E1iLl9r0ItRIVWCH2236mDpU2xTrdTW'  # To be replaced with hashed password
+
+    sanukam:
+      email: sanukam@gmail.com
+      name: Sharon Anukam
+      password:  '$2b$12$1r709BTHe7Fnf9d/xETJaehTzgwbGL2PetyyWxLLJWNYvDX6Fc9YW'     # To be replaced with hashed password
+    majala:
+      email: majala@gmail.com
+      name: Marvellous Ajala
+      password: '$2b$12$luSYg/ffCO12yD87HE4fWebatON3l5ApYr1iptyVKeonwzEP94Zia' # To be replaced with hashed password
+      
+    fajani:
+      email: fajani@gmail.com
+      name: Felix Ajani
+      password:  '$2b$12$faAVN2lD6WN.NXXetuSAceCGrgfHZKaiX67TVfgxLnOhkqL5mvUGq' # To be replaced with hashed password
+
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com

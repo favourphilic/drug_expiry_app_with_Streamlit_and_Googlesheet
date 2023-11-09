@@ -1,0 +1,6 @@
+streamlit-option-menu
+streamlit
+streamlit-authenticator
+streamlit-lottie
+pandas
+st-gsheets-connection
